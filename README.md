@@ -1,6 +1,6 @@
 # Skin-Melanoma-Prediction
 
-This project predicts the probability of a given image being a skin cancer (melanoma) or not. We have used Convolutional Neural Network to build a binary classification model, trained and validated using image dataset containing about 33000 images. We have performed EDA on the dataset, and build the model to predict only the Melanoma class. The goal of this project is to help detecting cancer at an early age using images, which greatly helps in early treatment of cancer. Please make use of the pdf file for further details on the project.
+This project predicts the probability of a given image being a skin cancer (melanoma) or not. I have used Convolutional Neural Network to build a binary classification model, trained and validated using image dataset containing about 33000 images. I have performed EDA on the dataset, and build the model to predict only the Melanoma class. The goal of this project is to help detecting cancer at an early age using images, which greatly helps in early treatment of cancer. Please make use of the pdf file for further details on the project.
 
 # Installation
 
